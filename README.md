@@ -1,2 +1,2 @@
-# SpringBoot-CloudFirestore
-demo push data to Cloud Firestore
+# demo
+Spring Boot with Firebase - Simple Application

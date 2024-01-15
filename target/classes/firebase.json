@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pet-market-93c3f",
+  "private_key_id": "38faf6dd420c7d5535575839ca3451d2cc63f3eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDasFg/1LG/cYBG\nDZ0klcA9vhCUQ9rZjtQIYklur5Ipk3liN5TAiqSjM3sjmPEwx3wgiLT6xhnu6u8u\nTmW0+Ruo0oo8nU8FOV4kVE+Qc7c++bb0yz/L1xnoJljOfIq8Pj8+gsyhsYbRw6TD\n+aBUnkAi1mr5S3zofSUkQK18j1v4jvpFqlwiJ1ZjLJ7r+7Igj2yq4yqPTVSVjml0\n+NE0sVqwFX5p5Km9a83Jlu7bWXRvGl8sp0+joQ0MMyB5CRdKDCHw3tg5UEfLG1LG\nS7L1WDTOO3GqikwV9Awc++ufeCA/cAWukm7uv0vDrzlEVoYfWu+xM2B+KcDbERdM\nAiAsLORvAgMBAAECggEAKCEX8I6dF15ChZhV77KzFiFcdXiGHkoBSpCOnQsGrS5s\npcNBPpuyXmhB/mRATg0tD+NGIoZbl+XwgfTM4QqdMrt/tmO/blv6lHwMJZu2Uo4M\nLptlV4hfLqRqw2lDJAvgGx5xYnJrJO7bu0KBU0W+yyXBd4GMqDTerepYa3T7EX8E\nP9HoVLLzGDeA3GEan0AmObRX0NSBzrhMWpaK2FhT3zQdZm1YU8INxUFCQX67kQ0r\ngJWSx/3GoU/HeINL8OpZyCeZJVcHDiXrzwrIA3YbVsmPpNxSe7INX8vvaftWgLRh\n9NXf6yyzsgKywp9z5qxaQaVr9Dol+QXJl2hVkVHL8QKBgQDxCtUXJNsdXLG6uvNO\nA0Ok2ZJ06R1k2zOBbgCLCoaO6H/wQ6pTgBURIbKoW3p081Vg/ussd8t5saWzBJbk\nrrKEDsZreHLJ0F+3X1bMPntqjhC/1P16rJwh1hSBUGjhAP5NXQ0oTx/avHFUZ71/\nqVzlW91UzWOVZnPe522rgkw+HQKBgQDoQmhyMMkZEdWt/y3K7JMPr7ZCgMHpGlDL\nGa75FgwNe2BTC2PfmpGVtwa6f64DycAK3v3tqhkgw0bddkKsynlG+mBDRBNs7LR/\nftQNyt6wWKuktlf/Q4ajm00ZjAKXlb7ZzG/CfiVnmqsqhyV3lBZJuggOzlGN3Ndo\nDQGCuHOW+wKBgHCvbbsqIb1yTixLpd78q6zvggZhzLoPt950PJDD1PAORXFfUMtE\nf5TIuir2ySLPd0SnJ+5b+qXjpOEx7hDuksol1iD76D3syjKBwaQuOagwzifAPNgS\nxdMTr/ZcTwuRWVF1hOcpRm0N17Vr4i1CUglvjuNMOZfok5bLfnvFqDsJAoGAFrIG\nisIBpJV9j9cTnnSnmizNXoo+aIzNwEruMiDZZKfdrb+7Lqpn930/BxJa6rvYLDfG\nEGdCtVTfo9xef4v5ddoZdfk8/LPUn3DBP+fHAuxnOV0oFCWBDpOqYQixaCaV06qK\ncTLqbMlMWIeEPb8WvnWTO/8lMPuXgO9kamWjxekCgYBsYmpEnAkzLiWwJnCt5Zeb\ngwS+pNwCXIfrCyYUQCAE39Kwy1uvFbVkRjpUK1f12tffn+YVZVXr3BJVrLSFu2fw\nTVdVWTm9xlUfAMxRyXU/vlC/Y53E1NmNvSnJ/YoPr6nNZxe8+TFaYqo7D9OD6X51\n4Ae7xPPHyB7rFKilWjN5Ug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n6qul@pet-market-93c3f.iam.gserviceaccount.com",
+  "client_id": "105488691166197550291",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n6qul%40pet-market-93c3f.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

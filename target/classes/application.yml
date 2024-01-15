@@ -1,0 +1,7 @@
+app:
+  notification:
+    firebase:
+      firebase-config-file: firebase.json
+logging:
+  level:
+    '[com.demo]': debug
